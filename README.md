@@ -1,3 +1,3 @@
 # stepic_auto_tests_course
-Course's homework
+Задания к курсу "Автоматизация тестирования с помощью Selenium и Python"
 | https://stepik.org/course/575/info |
